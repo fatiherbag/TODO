@@ -1,0 +1,65 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todoText": "Cook meat",
+      "done": true,
+      "important": false
+    },
+    {
+      "id": 2,
+      "todoText": "Do laundry",
+      "done": true,
+      "important": false
+    },
+    {
+      "id": 3,
+      "todoText": "Wash clothes",
+      "done": false,
+      "important": false
+    },
+    {
+      "id": 4,
+      "todoText": "Vacuum living room",
+      "done": true,
+      "important": false
+    },
+    {
+      "id": 5,
+      "todoText": "Take out garbage",
+      "done": false,
+      "important": true
+    },
+    {
+      "id": 6,
+      "todoText": "Buy light for desk",
+      "done": true,
+      "important": true
+    },
+    {
+      "id": 7,
+      "todoText": "Wash dishes",
+      "done": false,
+      "important": false
+    },
+    {
+      "id": 8,
+      "todoText": "Hang laundry",
+      "done": false,
+      "important": true
+    },
+    {
+      "id": 9,
+      "todoText": "Do expense report",
+      "done": false,
+
+      "important": false
+    },
+    {
+      "id": 10,
+      "todoText": "Do research about space",
+      "done": false,
+      "important": true
+    }
+  ]
+}
